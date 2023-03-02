@@ -32,6 +32,7 @@
     font-family:'Bungee Spice', cursive;
     text-shadow: 0.1em 0.1em 0.2em rgb(45, 45, 45);
     border: 30px solid transparent;
+    border-image: url("./pngwing.com.png") 250 round;
   }
 
   .game {
